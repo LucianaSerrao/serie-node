@@ -1,19 +1,19 @@
 # Serie Node
-Criando API REST com NodeJS, Express e MongoDB.
+> Criando API REST com NodeJS, Express e MongoDB.
 
 ## Comandos necessários
 ###  Estrutura e Cadastro
-> node init -y
-> yarn add express
-> yarn add body-parser
-> yarn add mongoose
-> yarn add bcryptjs
+- node init -y
+- yarn add express
+- yarn add body-parser
+- yarn add mongoose
+- yarn add bcryptjs
 ### Autenticação
-> yarn add jsonwebtoken
+- yarn add jsonwebtoken
 ### Recuperação de senha com NodeMailer
-> yarn add fs path
-> yarn add nodemailer-express-handlebars
+- yarn add fs path
+- yarn add nodemailer-express-handlebars
 
 ## Aplicações auxiliares
-> **Postman** para testes de validação de API (get, post)
-> **Mailtrap** para simular uma caixa de email
+- **Postman** para testes de validação de API (get, post)
+- **Mailtrap** para simular uma caixa de email
