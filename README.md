@@ -13,6 +13,8 @@ Criando API REST com NodeJS, Express e MongoDB.
 ### Recuperação de senha com NodeMailer
 -> yarn add fs path
 -> yarn add nodemailer-express-handlebars
+### CRUD e relacionamentos com MongoDB
+
 
 
 ## Aplicações auxiliares
