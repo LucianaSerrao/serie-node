@@ -14,8 +14,8 @@ app.get('/', (req, res) => {
 */
 
 //referenciando o controle de autenticação
-require('./controllers/authController')(app);
-required('./controllers/projectController')(app);
+require('./app/controllers/index')(app);
+
 
 
 app.listen(3000);

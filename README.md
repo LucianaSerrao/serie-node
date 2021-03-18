@@ -10,4 +10,11 @@ Criando API REST com NodeJS, Express e MongoDB.
 -> yarn add bcryptjs
 ### Autenticação
 -> yarn add jsonwebtoken
+### Recuperação de senha com NodeMailer
+-> yarn add fs path
+-> yarn add nodemailer-express-handlebars
 
+
+## Aplicações auxiliares
+-> postman para testes de validação de API (get, post)
+-> mailtrap para simular uma caixa de email

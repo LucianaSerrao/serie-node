@@ -1,6 +1,6 @@
 //o middleware vai interceptar a requisição entre o controller e a parte da rota; pega o req e o res e verifica se eles estao validos para poder receber a resposta do controller
 const jwt = require('jsonwebtoken');
-const authConfig = require('../config/auth');
+const authConfig = require('../../config/auth');
 
 
 export default (req, res, next) => {
