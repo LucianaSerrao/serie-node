@@ -10,8 +10,8 @@
 
 ## Descrição dos auxiliares
 
-> Morgan: biblioteca usada para fazer os logs de requisições HTTP.
+> **Morgan**: biblioteca usada para fazer os logs de requisições HTTP.
 
-> Mongoose: biblioteca usada para lidar com o banco de dados MongoDB
+> **Mongoose**: biblioteca usada para lidar com o banco de dados MongoDB
 
-> Multer: middleware do Express utilizada para manipular as requisições do tipo multipart form (requisições que trazem arquivos).
+> **Multer**: middleware do Express utilizada para manipular as requisições do tipo multipart form (requisições que trazem arquivos).
