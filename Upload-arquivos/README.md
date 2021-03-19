@@ -1,6 +1,6 @@
 # Upload de Arquivos
 
-> Backend de upload de arquivos usando NodeJS, Express e Amazon S3.
+> Backend de upload de arquivos usando NodeJS e Express.
 
 ## Comandos de instalação 
 
